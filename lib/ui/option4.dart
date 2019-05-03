@@ -39,7 +39,7 @@ class _Option4State extends State<Option4> with TickerProviderStateMixin {
             color: Colors.red,
             textColor: Colors.yellowAccent,
             shape: BeveledRectangleBorder(
-                borderRadius: BorderRadius.all(Radius.circular(20))),
+                borderRadius: BorderRadius.only(topLeft: Radius.circular(15),bottomRight: Radius.circular(15))),
           ),
         )
       ],
