@@ -1,4 +1,7 @@
+
+
 # flutter_animations_options
+<img src="./preview/im.gif" height="600" alt="Screenshot"/>
 
 A new Flutter project.
 
